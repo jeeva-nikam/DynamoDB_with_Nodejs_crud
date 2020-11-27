@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/jeeva-nikam/DynamoDB_with_Nodejs_crud#readme",
   "dependencies": {
-    "aws-sdk": "^2.799.0"
+    "aws-sdk": "^2.799.0",
+    "dotenv": "^8.2.0"
   }
 }
